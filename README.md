@@ -5,3 +5,14 @@ Let's start with a very basic example of a short Python program. It will print t
  
 02.Problem: The numbers from 1 to 10
 Write a Python console program that prints the numbers 1 to 10 on separate lines to the console.
+
+03.Problem: Rectangle Area
+Whrite a Python program that receives two numbers a and b, then calculates and prints the area of a rectangle with sides a and b.
+input	output       
+5
+7	    35
+
+input	output
+6
+8	    48
+
