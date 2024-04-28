@@ -3,5 +3,5 @@ Let's start with a very basic example of a short Python program. It will print t
  
  print("Hello SoftUni")
  
-02.Проблем: . The numbers from 1 to 10
+02.Problem: The numbers from 1 to 10
 Write a Python console program that prints the numbers 1 to 10 on separate lines to the console.
