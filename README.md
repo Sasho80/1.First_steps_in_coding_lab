@@ -21,6 +21,10 @@ input output  input output
 05.Problem: Greeting by Name
 Let's write a program that asks the user for their name and salutes them with the text "Hello, {name}!".
 
+06.Problem: Concatenating Text and Numbers
+When printing text, numbers and other data, we can concatenate them by using templates {0}, {1}, {2}, etc. 
+In programming, these templates are called placeholders.
+
 
 
 
