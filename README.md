@@ -25,6 +25,26 @@ Let's write a program that asks the user for their name and salutes them with th
 When printing text, numbers and other data, we can concatenate them by using templates {0}, {1}, {2}, etc. 
 In programming, these templates are called placeholders.
 
+07.Problem: Preparation of projects
+Write a program that calculates how many hours it will take an architect to draw up the designs of several construction sites. It takes three hours to prepare one project.
+Input
+2 lines are read from the console:
+1. The name of the architect - text
+2. Number of projects to prepare - an integer in the interval [0 … 100]
+Output
+The console prints:
+• "The architect {name of architect} will need {necessary hours} hours to complete {number of projects} project/s."
+
+input        output
+George       The architect George will 
+4            need 12 hours to complete
+             4 project/s.
+
+input        output
+Sanya        The architect Sanya will
+9            need 27 hours to complete
+             9 project/s.
+
 
 
 
