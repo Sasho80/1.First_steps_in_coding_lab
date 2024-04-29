@@ -45,6 +45,21 @@ Sanya        The architect Sanya will
 9            need 27 hours to complete
              9 project/s.
 
+08. Problem: Pet shop
+Write a program that calculates the cost of buying dog and cat food. The food is bought from a pet store, a package of dog food costs BGN 2.50,
+and a package of cat food costs BGN 4.
+input
+2 lines are read from the console:
+1. The number of packages of dog food - an integer in the interval [0… 100]
+2. The number of packages of cat food - an integer in the interval [0… 100]
+output
+The console prints:
+"{final amount} lv."
+
+input	output   input	output   
+5              13
+4	   28.5 lv.  9     68.5lv.
+
 
 
 
