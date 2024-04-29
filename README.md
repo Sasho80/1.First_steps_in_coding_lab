@@ -18,6 +18,9 @@ To do this, multiply inches by 2.54 (1 inch = 2.54 centimeters).
 input output  input output
 5	    12.7    7    17.78
 
+05.Problem: Greeting by Name
+Let's write a program that asks the user for their name and salutes them with the text "Hello, {name}!".
+
 
 
 
